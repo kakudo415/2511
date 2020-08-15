@@ -1,0 +1,3 @@
+[submodule "kicad-fp"]
+	path = pcb/kicad-fp
+	url = git@github.com:kakudo415/kicad-fp.git
